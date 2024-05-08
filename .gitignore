@@ -9,6 +9,8 @@ __pycache__/
 # VSCode
 .vscode/
 
+# Test
+
 # Distribution / packaging
 .Python
 build/

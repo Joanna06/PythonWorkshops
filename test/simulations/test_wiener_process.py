@@ -3,7 +3,7 @@
 import pytest
 import numpy as np
 from pypricer.simulations import wiener_process
-
+import pandas as pd
 
 def test_wiener_process_shape():
     """Test if output shape is as requested"""
